@@ -1,0 +1,16 @@
+a{
+	text-decoration: none;
+}
+
+li{
+	margin: 20px;
+}
+
+nav{
+	background-color: #007bff !important;
+}
+
+.navbar-nav li{
+	margin-right: 30px;
+}
+
